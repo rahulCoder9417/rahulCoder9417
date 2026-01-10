@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/rahulCoder9417?label=Followers&style=social)](https://github.com/rahulCoder9417)
 [![Github](https://img.shields.io/github/stars/rahulCoder9417?label=Stars&style=social)](https://github.com/rahulCoder9417)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-511054360/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/its_praveen_s?style=social)](https://x.com/RahulKumar9417)
+[![Twitter Follow](https://img.shields.io/twitter/follow/its_rahul_s?style=social)](https://x.com/RahulKumar9417)
 [![Website](https://img.shields.io/badge/Portfolio-green?&logo=vercel)](https://rahulworks.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ContactMe-informational?&logo=gmail)](mailto:rahulkum94l94@gmail.com)
 
