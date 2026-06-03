@@ -13,25 +13,29 @@
 
 ## 🚀 About Me
 
-- **Full Stack Developer** passionate about building scalable, high-performance apps
-- 📚 Always exploring **Next.js, TypeScript, backend optimizations**
-- 💻 Love exploring new tech stacks & building SaaS tools
+- 💼 **Full-Stack Software Engineer @ InboxKit** — building the **Enrich** platform end to end (frontend, backend, infra)
+- ⚡ Ship production systems in **TypeScript, Go, and Rust** — polished UIs and the low-latency services behind them
+- 🧠 Love **low-level systems** — built a **Redis-compatible database engine from scratch in Go** ([Redis-In-go](https://github.com/rahulCoder9417/Redis-In-go))
+- 📊 Architect **ClickHouse-backed analytics over 300M+ records** with multi-tier **Redis** caching at sub-second p95 latency
+- 📚 Always exploring **Next.js, distributed systems, and backend optimizations**
 - 📖 Read documentation like it's the morning newspaper 📰
+- 🧩 200+ problems solved on **LeetCode** — DSA & system design enthusiast
 - 🎯 Goal: Build **developer-first products**
 
 ---
 
 ## 🏆 Featured Projects
 
-- [**Dev-Sync**](https://github.com/rahulCoder9417/dev-sync) → A Collab Coding Editor used purely on web
-- [**Bookwise**](https://github.com/rahulCoder9417/Library) → A Scalable Library Enterprise using workflows to send emails
-- [**NewTube**](https://github.com/rahulCoder9417/3-Newtube) → A social Media app
+- [**Dev-Sync**](https://github.com/rahulCoder9417/dev-sync) → Real-time collaborative coding platform — up to 15 devs editing the same repo live via Yjs CRDTs over WebSocket, with a Dockerized execution backend
+- [**GoRedis**](https://github.com/rahulCoder9417/Redis-In-go) → Redis-compatible in-memory database built from scratch in **Go** — hand-written RESP parser, 40+ commands, transactions (MULTI/EXEC + WATCH), replication, RDB/AOF persistence, Pub/Sub & ACL auth
+- [**Bookwise**](https://github.com/rahulCoder9417/Library) → Scalable library enterprise system with approval-based workflows and automated email reminders
+- [**NewTube**](https://github.com/rahulCoder9417/3-Newtube) → A social media app
 
 ---
 
 ## 🧰 Tools & Technologies
 
-<p align="center"> <img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss,html,redux,nodejs,expressjs,javascript,typescript,c,python,mongodb,postgresql,prisma,drizzle,git,github,redis,websocket" /> </p>
+<p align="center"> <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,go,rust,python,c,reactjs,nextjs,redux,tailwindcss,html,nodejs,expressjs,fastify,postgresql,mongodb,clickhouse,redis,prisma,drizzle,docker,githubactions,websocket,git,github" /> </p>
 
 
 
